@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "wings of fire",
+      "author": "apj",
+      "body": "about wings of fire",
+      "id": 1
+    },
+    {
+      "title": "wings  fire",
+      "author": "apsdfj",
+      "body": "about wings of fire",
+      "id": 2
+    },
+    {
+      "title": "wings ",
+      "author": "apj",
+      "body": "about wings of fire",
+      "id": 3
+    }
+  ]
+}
